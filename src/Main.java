@@ -1,55 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
-     [20:15, 01.02.2023] Костя Кут: public class Main {
-
-            public static void main(String[] args) {
-                task1();
-                task2();
-                task3();
-                task4();
-                task5();
-                task6();
-                task7();
-                task8();
-                task9();
-                task10();
-
-            public static void task1() {
-                System.out.println("Задача 1");
-                for (int i = 0; i <=10; i = ++i) {
-                    System.out.println(i);
-                }
-            }
-
-            public static void task2() {
-                System.out.println("Задача 2");
-                for (int i = 10; i >=1; i = --i) {
-                    System.out.println(i);
-                }
-            }
-            public static void task3() {
-                System.out.println("Задача 3");
-                for (int i=0; i<=17; i=i+2) {
-                    System.out.println(i);
-                }
-            }
-            public static void …
-                    [20:17, 01.02.2023] Костя Кут: цикл 2
-                    [20:17, 01.02.2023] Костя Кут: public class Main {
-
-                public static void main(String[] args) {
-                    task1();
-                    task2();
-                    task3();
-                    task4();
-                    task5();
-                    task6();
-                    task7();
-                    task8();
-                    task8_1();
-                    task8_2();
-                }
-
+    public static void main(String[] args)
                 public static void task1() {
                     System.out.println("Задача 1");
                     int depositTotal = 2_459_000; //вводим условия задачи
